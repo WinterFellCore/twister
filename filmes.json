@@ -111,12 +111,37 @@
     "url": "https://ia600203.us.archive.org/14/items/pantera-negra-wakanda-para-sempre-paixaoflix/Pantera%20Negra%20-%20Wakanda%20para%20Sempre_ptbr.ia.mp4?cnt=0"
   },
   {
+    "id": "nefarious",
+    "titulo": "nefarious",
+    "capa": "https://image.tmdb.org/t/p/w1280/7VmkvDjLFq6U2x254n1jISHG2lR.jpg",
+    "url": "https://ia801808.us.archive.org/20/items/nefarious-paixaoflix/CONV_LA-Nefarious.ia.mp4"
+  },
+  {
+    "id": "espantatub",
+    "titulo": "O Espanta Tubarões",
+    "capa": "https://cinema10.com.br/upload/filmes/filmes_1788_espantatubaroes.jpg",
+    "url": "https://ia800102.us.archive.org/22/items/o-espanta-tubaroes-paixaoflix/CONV_O%20Espanta%20Tubar%C3%B5es.ia.mp4?cnt=0"
+  },
+  {
+    "id": "bobemb",
+    "titulo": "Bob Esponja: Em Busca da Calça Quadrada",
+    "capa": "https://br.web.img2.acsta.net/img/b9/bf/b9bf0c8b296b958e9daba13840d1ae65.jpg",
+    "url": "https://ia801806.us.archive.org/14/items/bob-esponja-em-busca-da-calca-quadrada-paixaoflix/CONV_Bob%20Esponja%20Em%20Busca%20da%20Cal%C3%A7a%20Quadrada.ia.mp4?cnt=0"
+  },
+  {
+    "id": "",
+    "titulo": "",
+    "capa": "",
+    "url": ""
+  },
+  {
     "id": "velozes_furiosos_9",
     "titulo": "Velozes & Furiosos 9",
     "capa": "https://i.assistir.biz/t/p/w342/6TuEPZ3ItlBO8WmH8BmY2aGLhes.jpg",
     "url": "https://dn720306.ca.archive.org/0/items/velozes-e-furiosos-9-2021-dublado/Velozes%20e%20Furiosos%209%202021%20Dublado.mp4"
   }
 ]
+
 
 
 
