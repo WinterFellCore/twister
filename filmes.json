@@ -69,10 +69,28 @@
     "url": "https://ia600806.us.archive.org/11/items/o-rei-leao-3-hakuna-matata-2004-infantil-paixaoflix/O%20Rei%20Le%C3%A3o%203%20-%20Hakuna%20Matata%202004.mp4"
   },
   {
-    "id": "",
-    "titulo": "",
-    "capa": "",
-    "url": ""
+    "id": "Aprocuradaf",
+    "titulo": "À Procura Da Felicidade",
+    "capa": "https://www.cafecomfilme.com.br/media/k2/items/cache/5d7d2a237a4683e5c45b021802a448c4_XL.jpg",
+    "url": "https://ia600908.us.archive.org/10/items/a-procura-da-felicidade-paixaoflix/%C3%80%20Procura%20Da%20Felicidade.ia.mp4"
+  },
+  {
+    "id": "jwr",
+    "titulo": "Jurassic World - Recomeço",
+    "capa": "https://image.tmdb.org/t/p/original/g81Wxr9rskMsmKx3RoPZP6PnlkX.jpg",
+    "url": "https://ia800800.us.archive.org/5/items/jurassicworldrecomeco-scifi-paixaoflix/Jurassic%20World%20-%20Recome%C3%A7o_ready.mp4"
+  },
+  {
+    "id": "moana2",
+    "titulo": "Moana 2",
+    "capa": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgGpgIBQVSmd4uVvQJzrkAUafKsltYid5KHPDVJPLdhMA22oGKG_w2R9WSGeBLtPOSEVr_fbTs428WwZkcwvarRE4DszkJWFfUvdDVH85Y8uFfei6XUEoMLH2eluwNA8_-ywdtHXyAZXpn8rHRliKP-WKOiK6-XRsmSn-xiWiDgAp72xnTRKN4UKMor-4Vu/s800/moana2_09.jpg",
+    "url": "https://ia800307.us.archive.org/34/items/moana2-paixaoflix/Moana%202_ready.mp4?cnt=0"
+  },
+  {
+    "id": "planetadosmac",
+    "titulo": "Planeta Dos Macacos - A Origem",
+    "capa": "https://www.cafecomfilme.com.br/media/k2/items/cache/b320775de3c297425b69dccc362220a9_XL.jpg",
+    "url": "https://ia801307.us.archive.org/14/items/planetadosmacacosaorigem-paixaoflix/Planeta%20Dos%20Macacos%20-%20A%20Origem_ready.mp4"
   },
   {
     "id": "velozes_furiosos_9",
@@ -81,6 +99,7 @@
     "url": "https://dn720306.ca.archive.org/0/items/velozes-e-furiosos-9-2021-dublado/Velozes%20e%20Furiosos%209%202021%20Dublado.mp4"
   }
 ]
+
 
 
 
