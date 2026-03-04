@@ -143,6 +143,12 @@
   {
     "id": "karatekid",
     "titulo": "Karatê Kid",
+    "capa": "https://image.tmdb.org/t/p/original/dy4nbPi4JgiCwNXnbfQWC92K5vt.jpg",
+    "url": "https://ia800600.us.archive.org/2/items/karate-kid-2010_202407/Karate%20Kid%20%282010%29%20DUAL%20AUDIO%20720p%20-%20Douglasvip.mp4"
+  },
+  {
+    "id": "",
+    "titulo": "",
     "capa": "",
     "url": ""
   },
@@ -153,6 +159,7 @@
     "url": "https://dn720306.ca.archive.org/0/items/velozes-e-furiosos-9-2021-dublado/Velozes%20e%20Furiosos%209%202021%20Dublado.mp4"
   }
 ]
+
 
 
 
