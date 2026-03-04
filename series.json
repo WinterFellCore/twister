@@ -68,5 +68,88 @@
         ]
       }
     ]
+  },
+  {
+    "id": "tomejerry",
+    "tipo": "serie",
+    "titulo": "Tom e Jerry",
+    "capa": "https://tse1.mm.bing.net/th/id/OIP.Rcr2CIDnW0dHXQFmP0-4zQHaKd?rs=1&pid=ImgDetMain&o=7&rm=3",
+    "temporadas": [
+      {
+        "numero": 1,
+        "episodios": [
+  {
+    "numero": 10,
+    "titulo": "Tom e Jerry – Grandes Personagens (DVD 10)",
+    "url": "https://ia800602.us.archive.org/1/items/tom-e-jerry-grandes-personagem-vol-2-tom-jerry-greatest-chases-v-2-dvd/Tom%20e%20Jerry%20Grandes%20Personagem%20Vol%202%20%28TOM_JERRY_GREATEST_CHASES_V2%29%20DVD10.mp4"
+  },
+  {
+    "numero": 11,
+    "titulo": "Tom e Jerry – Grandes Personagens (DVD 11)",
+    "url": "https://ia800602.us.archive.org/1/items/tom-e-jerry-grandes-personagem-vol-2-tom-jerry-greatest-chases-v-2-dvd/Tom%20e%20Jerry%20Grandes%20Personagem%20Vol%202%20%28TOM_JERRY_GREATEST_CHASES_V2%29%20DVD11.mp4"
+  },
+  {
+    "numero": 12,
+    "titulo": "Tom e Jerry – Grandes Personagens (DVD 12)",
+    "url": "https://ia800602.us.archive.org/1/items/tom-e-jerry-grandes-personagem-vol-2-tom-jerry-greatest-chases-v-2-dvd/Tom%20e%20Jerry%20Grandes%20Personagem%20Vol%202%20%28TOM_JERRY_GREATEST_CHASES_V2%29%20DVD12.mp4"
+  },
+  {
+    "numero": 13,
+    "titulo": "Tom e Jerry – Grandes Personagens (DVD 13)",
+    "url": "https://ia800602.us.archive.org/1/items/tom-e-jerry-grandes-personagem-vol-2-tom-jerry-greatest-chases-v-2-dvd/Tom%20e%20Jerry%20Grandes%20Personagem%20Vol%202%20%28TOM_JERRY_GREATEST_CHASES_V2%29%20DVD13.mp4"
+  },
+  {
+    "numero": 14,
+    "titulo": "Tom e Jerry – Grandes Personagens (DVD 14)",
+    "url": "https://ia800602.us.archive.org/1/items/tom-e-jerry-grandes-personagem-vol-2-tom-jerry-greatest-chases-v-2-dvd/Tom%20e%20Jerry%20Grandes%20Personagem%20Vol%202%20%28TOM_JERRY_GREATEST_CHASES_V2%29%20DVD14.mp4"
+  },
+  {
+    "numero": 15,
+    "titulo": "Tom e Jerry – Grandes Personagens (DVD 15)",
+    "url": "https://ia800602.us.archive.org/1/items/tom-e-jerry-grandes-personagem-vol-2-tom-jerry-greatest-chases-v-2-dvd/Tom%20e%20Jerry%20Grandes%20Personagem%20Vol%202%20%28TOM_JERRY_GREATEST_CHASES_V2%29%20DVD15.mp4"
+  },
+  {
+    "numero": 16,
+    "titulo": "Tom e Jerry – Grandes Personagens (DVD 16)",
+    "url": "https://ia800602.us.archive.org/1/items/tom-e-jerry-grandes-personagem-vol-2-tom-jerry-greatest-chases-v-2-dvd/Tom%20e%20Jerry%20Grandes%20Personagem%20Vol%202%20%28TOM_JERRY_GREATEST_CHASES_V2%29%20DVD16.mp4"
+  },
+  {
+    "numero": 17,
+    "titulo": "Tom e Jerry – Grandes Personagens (DVD 17)",
+    "url": "https://ia800602.us.archive.org/1/items/tom-e-jerry-grandes-personagem-vol-2-tom-jerry-greatest-chases-v-2-dvd/Tom%20e%20Jerry%20Grandes%20Personagem%20Vol%202%20%28TOM_JERRY_GREATEST_CHASES_V2%29%20DVD17.mp4"
+  },
+  {
+    "numero": 18,
+    "titulo": "Tom e Jerry – Grandes Personagens (DVD 18)",
+    "url": "https://ia800602.us.archive.org/1/items/tom-e-jerry-grandes-personagem-vol-2-tom-jerry-greatest-chases-v-2-dvd/Tom%20e%20Jerry%20Grandes%20Personagem%20Vol%202%20%28TOM_JERRY_GREATEST_CHASES_V2%29%20DVD18.mp4"
+  },
+  {
+    "numero": 19,
+    "titulo": "Tom e Jerry – Grandes Personagens (DVD 19)",
+    "url": "https://ia800602.us.archive.org/1/items/tom-e-jerry-grandes-personagem-vol-2-tom-jerry-greatest-chases-v-2-dvd/Tom%20e%20Jerry%20Grandes%20Personagem%20Vol%202%20%28TOM_JERRY_GREATEST_CHASES_V2%29%20DVD19.mp4"
+  },
+  {
+    "numero": 20,
+    "titulo": "Tom e Jerry – Grandes Personagens (DVD 20)",
+    "url": "https://ia800602.us.archive.org/1/items/tom-e-jerry-grandes-personagem-vol-2-tom-jerry-greatest-chases-v-2-dvd/Tom%20e%20Jerry%20Grandes%20Personagem%20Vol%202%20%28TOM_JERRY_GREATEST_CHASES_V2%29%20DVD20.mp4"
+  },
+  {
+    "numero": 21,
+    "titulo": "Tom e Jerry – Grandes Personagens (DVD 21)",
+    "url": "https://ia800602.us.archive.org/1/items/tom-e-jerry-grandes-personagem-vol-2-tom-jerry-greatest-chases-v-2-dvd/Tom%20e%20Jerry%20Grandes%20Personagem%20Vol%202%20%28TOM_JERRY_GREATEST_CHASES_V2%29%20DVD21.mp4"
+  },
+  {
+    "numero": 22,
+    "titulo": "Tom e Jerry – Grandes Personagens (DVD 22)",
+    "url": "https://ia800602.us.archive.org/1/items/tom-e-jerry-grandes-personagem-vol-2-tom-jerry-greatest-chases-v-2-dvd/Tom%20e%20Jerry%20Grandes%20Personagem%20Vol%202%20%28TOM_JERRY_GREATEST_CHASES_V2%29%20DVD22.mp4"
+  },
+  {
+    "numero": 23,
+    "titulo": "Tom e Jerry – Grandes Personagens (DVD 23)",
+    "url": "https://ia800602.us.archive.org/1/items/tom-e-jerry-grandes-personagem-vol-2-tom-jerry-greatest-chases-v-2-dvd/Tom%20e%20Jerry%20Grandes%20Personagem%20Vol%202%20%28TOM_JERRY_GREATEST_CHASES_V2%29%20DVD23.mp4"
+  }
+]
+      }
+    ]
   }
 ]
