@@ -151,5 +151,87 @@
 ]
       }
     ]
-  }
+  },
+  {
+    "id": "KenanKel",
+  "tipo": "serie",
+  "titulo": "Kenan & Kel",
+  "capa": "https://images.sr.roku.com/idType/roku/context/trc/id/f3c56e1f39f65546a358ac10bda7ad99/images/gracenote/assets/p253038_b_v8_ak.jpg",
+  "temporadas": [
+    {
+      "numero": 1,
+      "episodios": [
+        { "numero": 1, "titulo": "Piloto", "url": "https://ia800405.us.archive.org/34/items/PaixaoFlix-1-Temp/01.mp4?cnt=0" },
+        { "numero": 2, "titulo": "O Nariz", "url": "https://ia800405.us.archive.org/34/items/PaixaoFlix-1-Temp/02.mp4?cnt=0" },
+        { "numero": 3, "titulo": "O Aniversário", "url": "https://ia800405.us.archive.org/34/items/PaixaoFlix-1-Temp/03.mp4?cnt=0" },
+        { "numero": 4, "titulo": "O Encontro", "url": "https://ia800405.us.archive.org/34/items/PaixaoFlix-1-Temp/04.mp4?cnt=0" },
+        { "numero": 5, "titulo": "O Professor", "url": "https://ia800405.us.archive.org/34/items/PaixaoFlix-1-Temp/05.mp4?cnt=0" },
+        { "numero": 6, "titulo": "O Emprego", "url": "https://ia800405.us.archive.org/34/items/PaixaoFlix-1-Temp/06.mp4?cnt=0" },
+        { "numero": 7, "titulo": "A Festa", "url": "https://ia800405.us.archive.org/34/items/PaixaoFlix-1-Temp/07.mp4?cnt=0" },
+        { "numero": 8, "titulo": "O Teste", "url": "https://ia800405.us.archive.org/34/items/PaixaoFlix-1-Temp/08.mp4?cnt=0" },
+        { "numero": 9, "titulo": "O Concurso", "url": "https://ia800405.us.archive.org/34/items/PaixaoFlix-1-Temp/09.mp4?cnt=0" },
+        { "numero": 10, "titulo": "O Show", "url": "https://ia800405.us.archive.org/34/items/PaixaoFlix-1-Temp/10.mp4?cnt=0" },
+        { "numero": 11, "titulo": "O Castigo", "url": "https://ia800405.us.archive.org/34/items/PaixaoFlix-1-Temp/11.mp4?cnt=0" },
+        { "numero": 12, "titulo": "A Viagem", "url": "https://ia800405.us.archive.org/34/items/PaixaoFlix-1-Temp/12.mp4?cnt=0" },
+        { "numero": 13, "titulo": "O Plano", "url": "https://ia800405.us.archive.org/34/items/PaixaoFlix-1-Temp/13.mp4?cnt=0" },
+        { "numero": 14, "titulo": "A Confusão Final", "url": "https://ia800405.us.archive.org/34/items/PaixaoFlix-1-Temp/14.mp4?cnt=0" }
+      ]
+    },
+    {
+       "numero": 2,
+       "episodios": [
+        { "numero": 1, "titulo": "Novo Começo", "url": "https://ia600902.us.archive.org/7/items/PaixaoFlix-2-Temp/Kek.2x01.mp4?cnt=0" },
+        { "numero": 2, "titulo": "O Emprego dos Sonhos", "url": "https://ia600902.us.archive.org/7/items/PaixaoFlix-2-Temp/Kek.2x02.mp4?cnt=0" },
+        { "numero": 3, "titulo": "O Concurso Maluco", "url": "https://ia600902.us.archive.org/7/items/PaixaoFlix-2-Temp/Kek.2x03.mp4?cnt=0" },
+        { "numero": 4, "titulo": "Problemas de Amizade", "url": "https://ia600902.us.archive.org/7/items/PaixaoFlix-2-Temp/Kek.2x04.mp4?cnt=0" },
+        { "numero": 5, "titulo": "O Teste Surpresa", "url": "https://ia600902.us.archive.org/7/items/PaixaoFlix-2-Temp/Kek.2x05.mp4?cnt=0" },
+        { "numero": 6, "titulo": "A Grande Briga", "url": "https://ia600902.us.archive.org/7/items/PaixaoFlix-2-Temp/Kek.2x06.mp4?cnt=0" },
+        { "numero": 7, "titulo": "Noite de Pizza", "url": "https://ia600902.us.archive.org/7/items/PaixaoFlix-2-Temp/Kek.2x07.mp4?cnt=0" },
+        { "numero": 8, "titulo": "Segredos Revelados", "url": "https://ia600902.us.archive.org/7/items/PaixaoFlix-2-Temp/Kek.2x08.mp4?cnt=0" },
+        { "numero": 9, "titulo": "A Aposta", "url": "https://ia600902.us.archive.org/7/items/PaixaoFlix-2-Temp/Kek.2x09.mp4?cnt=0" },
+        { "numero": 10, "titulo": "O Show da Escola", "url": "https://ia600902.us.archive.org/7/items/PaixaoFlix-2-Temp/Kek.2x10.mp4?cnt=0" },
+        { "numero": 11, "titulo": "O Dia de Sorte", "url": "https://ia600902.us.archive.org/7/items/PaixaoFlix-2-Temp/Kek.2x11.mp4?cnt=0" },
+        { "numero": 12, "titulo": "O Engano", "url": "https://ia600902.us.archive.org/7/items/PaixaoFlix-2-Temp/Kek.2x12.mp4?cnt=0" },
+        { "numero": 13, "titulo": "A Decisão", "url": "https://ia600902.us.archive.org/7/items/PaixaoFlix-2-Temp/Kek.2x13.mp4?cnt=0" }
+      ]
+    },
+    {
+      "numero": 3,
+      "episodios": [
+        { "numero": 1, "titulo": "Começa a Confusão", "url": "https://ia600805.us.archive.org/10/items/PaixaoFlix-Kenan-e-Kel-3oTemp/Kek%203x01.mp4?cnt=0" },
+        { "numero": 2, "titulo": "Mistério na Escola", "url": "https://ia600805.us.archive.org/10/items/PaixaoFlix-Kenan-e-Kel-3oTemp/Kek%203x02.mp4?cnt=0" },
+        { "numero": 3, "titulo": "Kel em Apuros", "url": "https://ia600805.us.archive.org/10/items/PaixaoFlix-Kenan-e-Kel-3oTemp/Kek%203x03.mp4?cnt=0" },
+        { "numero": 4, "titulo": "Plano Errado", "url": "https://ia600805.us.archive.org/10/items/PaixaoFlix-Kenan-e-Kel-3oTemp/Kek%203x04.mp4?cnt=0" },
+        { "numero": 5, "titulo": "Problema Duplo", "url": "https://ia600805.us.archive.org/10/items/PaixaoFlix-Kenan-e-Kel-3oTemp/Kek%203x05.mp4?cnt=0" },
+        { "numero": 6, "titulo": "Noite Maluca", "url": "https://ia600805.us.archive.org/10/items/PaixaoFlix-Kenan-e-Kel-3oTemp/Kek%203x06.mp4?cnt=0" },
+        { "numero": 7, "titulo": "Confusão Total", "url": "https://ia600805.us.archive.org/10/items/PaixaoFlix-Kenan-e-Kel-3oTemp/Kek%203x07.mp4?cnt=0" },
+        { "numero": 8, "titulo": "Exames à Vista", "url": "https://ia600805.us.archive.org/10/items/PaixaoFlix-Kenan-e-Kel-3oTemp/Kek%203x08.mp4?cnt=0" },
+        { "numero": 9, "titulo": "O Desastre", "url": "https://ia600805.us.archive.org/10/items/PaixaoFlix-Kenan-e-Kel-3oTemp/Kek%203x09.mp4?cnt=0" },
+        { "numero": 10, "titulo": "O Pulo da Sorte", "url": "https://ia600805.us.archive.org/10/items/PaixaoFlix-Kenan-e-Kel-3oTemp/Kek%203x10.mp4?cnt=0" },
+        { "numero": 11, "titulo": "Rindo à Toa", "url": "https://ia600805.us.archive.org/10/items/PaixaoFlix-Kenan-e-Kel-3oTemp/Kek%203x11.mp4?cnt=0" },
+        { "numero": 12, "titulo": "Última Tentativa", "url": "https://ia600805.us.archive.org/10/items/PaixaoFlix-Kenan-e-Kel-3oTemp/Kek%203x12.mp4?cnt=0" },
+        { "numero": 13, "titulo": "Quase Lá", "url": "https://ia600805.us.archive.org/10/items/PaixaoFlix-Kenan-e-Kel-3oTemp/Kek%203x13.mp4?cnt=0" },
+        { "numero": 14, "titulo": "Pânico na Cidade", "url": "https://ia600805.us.archive.org/10/items/PaixaoFlix-Kenan-e-Kel-3oTemp/Kek%203x14.mp4?cnt=0" },
+        { "numero": 15, "titulo": "Plano Secreto", "url": "https://ia600805.us.archive.org/10/items/PaixaoFlix-Kenan-e-Kel-3oTemp/Kek%203x15.mp4?cnt=0" },
+        { "numero": 16, "titulo": "Final da Temporada", "url": "https://ia600805.us.archive.org/10/items/PaixaoFlix-Kenan-e-Kel-3oTemp/Kek%203x16.mp4?cnt=0" }
+      ]
+    },
+    {
+      "numero": 4,
+      "episodios": [
+        { "numero": 1, "titulo": "De Volta à Aventura", "url": "https://ia800104.us.archive.org/30/items/PaixaoFlix-Kenan-e-Kel-4oTemp/Kek.4x01.mp4?cnt=0" },
+        { "numero": 2, "titulo": "Kel na Confusão", "url": "https://ia800104.us.archive.org/30/items/PaixaoFlix-Kenan-e-Kel-4oTemp/Kek.4x02.mp4?cnt=0" },
+        { "numero": 3, "titulo": "O Plano Genial", "url": "https://ia800104.us.archive.org/30/items/PaixaoFlix-Kenan-e-Kel-4oTemp/Kek.4x03.mp4?cnt=0" },
+        { "numero": 4, "titulo": "Surpresa Inesperada", "url": "https://ia800104.us.archive.org/30/items/PaixaoFlix-Kenan-e-Kel-4oTemp/Kek.4x04.mp4?cnt=0" },
+        { "numero": 5, "titulo": "O Concurso Final", "url": "https://ia800104.us.archive.org/30/items/PaixaoFlix-Kenan-e-Kel-4oTemp/Kek.4x05.mp4?cnt=0" },
+        { "numero": 6, "titulo": "Caos Total", "url": "https://ia800104.us.archive.org/30/items/PaixaoFlix-Kenan-e-Kel-4oTemp/Kek.4x06.mp4?cnt=0" },
+        { "numero": 7, "titulo": "Noite de Risadas", "url": "https://ia800104.us.archive.org/30/items/PaixaoFlix-Kenan-e-Kel-4oTemp/Kek.4x07.mp4?cnt=0" },
+        { "numero": 8, "titulo": "Missão Impossível", "url": "https://ia800104.us.archive.org/30/items/PaixaoFlix-Kenan-e-Kel-4oTemp/Kek.4x08.mp4?cnt=0" },
+        { "numero": 9, "titulo": "O Grande Problema", "url": "https://ia800104.us.archive.org/30/items/PaixaoFlix-Kenan-e-Kel-4oTemp/Kek.4x09.mp4?cnt=0" },
+        { "numero": 10, "titulo": "Plano Maluco", "url": "https://ia800104.us.archive.org/30/items/PaixaoFlix-Kenan-e-Kel-4oTemp/Kek.4x10.mp4?cnt=0" },
+        { "numero": 11, "titulo": "Desafio Total", "url": "https://ia800104.us.archive.org/30/items/PaixaoFlix-Kenan-e-Kel-4oTemp/Kek.4x11.mp4?cnt=0" }
+      ]
+    }
+  ]
+}
 ]
