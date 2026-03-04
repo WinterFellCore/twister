@@ -129,8 +129,20 @@
     "url": "https://ia801806.us.archive.org/14/items/bob-esponja-em-busca-da-calca-quadrada-paixaoflix/CONV_Bob%20Esponja%20Em%20Busca%20da%20Cal%C3%A7a%20Quadrada.ia.mp4?cnt=0"
   },
   {
-    "id": "",
-    "titulo": "",
+    "id": "obomdinossa",
+    "titulo": "O Bom Dinossauro",
+    "capa": "https://2.bp.blogspot.com/-uxrHGiMgfek/Vpz5txNbhZI/AAAAAAAA6Fo/nQC2S2orYtM/s1600/BOM%2BDINOSSAURO%2BLIVRO%2BILUSTRADO%2BABR%2B2016.jpg",
+    "url": "https://ia600903.us.archive.org/32/items/PaixaoFlix-O-Bom-Dinossauro-2016/O%20Bom%20Dinossauro.mp4?cnt=0"
+  },
+  {
+    "id": "nfsp1",
+    "titulo": "Need For Speed",
+    "capa": "https://m.media-amazon.com/images/I/91rJ1Vt6N8L._SY606_.jpg",
+    "url": "https://dn721907.ca.archive.org/0/items/need-for-speed-2014-brrip-720p-dublado-andre-tpf/Need%20For%20Speed%20%282014%29%20BRrip%20720p%20Dublado%20-%20AndreTPF.mp4"
+  },
+  {
+    "id": "karatekid",
+    "titulo": "Karatê Kid",
     "capa": "",
     "url": ""
   },
@@ -141,6 +153,7 @@
     "url": "https://dn720306.ca.archive.org/0/items/velozes-e-furiosos-9-2021-dublado/Velozes%20e%20Furiosos%209%202021%20Dublado.mp4"
   }
 ]
+
 
 
 
